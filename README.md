@@ -1,4 +1,4 @@
-# Relation-room# CodeIgniter 4 Relationship Query Builder
+# SpringBoot Relationship Query Builder
 
 ## What does this add to SpringBoot? How do I setup my project with this?
 
